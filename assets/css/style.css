@@ -44,7 +44,7 @@ nav ul li{
     padding: 10px 20px;
 }
 nav ul li a{
-    color: #1d1d24;
+    color: #282828;
     position: relative;
     padding: 5px 0;
 }
@@ -307,6 +307,10 @@ nav ul li a:hover:after{
     font-size: 100px;
     text-align: center;
     color: #2f6bb9;
+}
+
+.weblink a{
+    color: #ffffff;
 }
 
 /* Components of first image */
